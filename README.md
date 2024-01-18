@@ -15,4 +15,4 @@ Two models were utilized for this task: the baseline model, Logistic Regression,
 
 Although the Logistic Regression model showed a slight edge, with a difference of less than 1%, the preferred choice is the Random Forest model. This preference is based on its capability to effectively handle non-linear relationships observed in the dataset.
 
-For a deeper dive into the analysis, models, and results, please consult the associated notebook.
+For a deeper dive into the analysis, models, and results, please consult the associated [notebook](https://github.com/damiiete/Recipe_prediction/blob/main/recipe_site_traffic.ipynb).
